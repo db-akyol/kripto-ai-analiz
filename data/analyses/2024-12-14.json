@@ -1,0 +1,36 @@
+{
+  "date": "2024-12-14",
+  "title": "Altcoin Sezonu Sinyalleri Güçleniyor",
+  "trend": "bullish",
+  "summary": "Bitcoin dominansının düşüşüyle birlikte altcoinlerde hareketlilik başladı. Özellikle AI ve Gaming sektörlerinde güçlü performans görülüyor.",
+  "btcPrice": 99800,
+  "ethPrice": 3650,
+  "fullAnalysis": "## Piyasa Özeti\n\nAltcoin sezonu sinyalleri görülüyor. BTC dominansı düşerken altcoinler güç kazanıyor.\n\n## Bitcoin\n\nBTC 100.000$ altında konsolide oluyor. Altcoinlere sermaye akışı gözlemleniyor.\n\n## Altcoinler\n\nAI tokenları ve gaming projeleri liderliğinde altcoin rallisi başladı.\n\n## Sonuç\n\nDiversifikasyon fırsatları ortaya çıkıyor.",
+  "technicalIndicators": {
+    "rsi": 55.0,
+    "rsiStatus": "Nötr",
+    "macd": "Nötr",
+    "ma50": 92000,
+    "ma200": 80000
+  },
+  "priceTargets": {
+    "shortTerm": 102000,
+    "midTerm": 110000,
+    "support": 95000
+  },
+  "keyPoints": [
+    "BTC dominansı düşüyor",
+    "AI tokenları parlıyor",
+    "Gaming sektörü canlanıyor"
+  ],
+  "risks": [
+    "BTC düzeltmesi altcoinleri etkileyebilir",
+    "Volatil piyasa koşulları"
+  ],
+  "marketStats": {
+    "totalMarketCap": "$3.4T",
+    "volume24h": "$145B",
+    "btcDominance": "52.1%",
+    "activeUsers": "480M"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2024-12-15",
+  "title": "ETF Onayı Beklentileriyle Piyasa Hareketleniyor",
+  "trend": "bullish",
+  "summary": "Bitcoin ETF başvurularındaki olumlu gelişmeler piyasayı canlandırdı. Kurumsal yatırımcıların artan ilgisiyle BTC 102.000$ seviyelerine yükseldi.",
+  "btcPrice": 102350,
+  "ethPrice": 3780,
+  "fullAnalysis": "## Piyasa Özeti\n\nETF beklentileri piyasayı pozitif etkiliyor. Bitcoin'de yukarı yönlü momentum devam ediyor.\n\n## Bitcoin Analizi\n\nBTC güçlü destek seviyelerinden sekerek yükselişini sürdürüyor. 100.000$ üzerinde konsolidasyon görülüyor.\n\n## Ethereum\n\nETH/BTC paritesi güçleniyor. DeFi TVL'de artış gözlemleniyor.\n\n## Sonuç\n\nPiyasa olumlu seyrine devam ediyor.",
+  "technicalIndicators": {
+    "rsi": 58.3,
+    "rsiStatus": "Nötr",
+    "macd": "Bullish Crossover",
+    "ma50": 95000,
+    "ma200": 82000
+  },
+  "priceTargets": {
+    "shortTerm": 105000,
+    "midTerm": 115000,
+    "support": 98000
+  },
+  "keyPoints": [
+    "ETF haberleri piyasayı destekliyor",
+    "Kurumsal akışlar artıyor",
+    "100.000$ destek seviyesi güçlü"
+  ],
+  "risks": [
+    "ETF reddi riski",
+    "Kısa vadeli düzeltme olasılığı"
+  ],
+  "marketStats": {
+    "totalMarketCap": "$3.6T",
+    "volume24h": "$165B",
+    "btcDominance": "53.8%",
+    "activeUsers": "495M"
+  }
+}

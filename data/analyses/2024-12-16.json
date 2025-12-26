@@ -1,0 +1,40 @@
+{
+  "date": "2024-12-16",
+  "title": "Bitcoin 105.000$ Seviyesini Test Ediyor",
+  "trend": "bullish",
+  "summary": "Bitcoin, son 24 saatte güçlü bir performans sergileyerek 105.000$ kritik direnç seviyesine yaklaştı. Teknik göstergeler olumlu sinyaller verirken, piyasa hacminde %24 artış gözlemleniyor. ETF başvurularıyla ilgili olumlu gelişmeler yatırımcı ilgisini artırdı.",
+  "btcPrice": 104850,
+  "ethPrice": 3920,
+  "fullAnalysis": "## Piyasa Özeti\n\nBitcoin, güçlü alım baskısıyla 105.000$ seviyesine yaklaştı. Kurumsal yatırımcıların artan ilgisi ve olumlu makroekonomik veriler piyasayı destekliyor.\n\n## Bitcoin Analizi\n\n### Fiyat Hareketi\nBitcoin son 24 saatte %3.2 değer kazanarak 104.850$ seviyelerine ulaştı. 100.000$ psikolojik desteği güçlü bir şekilde korunuyor.\n\n### Teknik Görünüm\n- **RSI (14)**: 62.5 - Alım bölgesinde ancak aşırı alım değil\n- **MACD**: Bullish crossover sinyali aktif\n- **50 Günlük MA**: 98.200$ - Fiyat üzerinde\n- **200 Günlük MA**: 85.500$ - Güçlü destek\n\n### Destek ve Direnç\n- Birincil Direnç: 105.000$\n- İkincil Direnç: 110.000$\n- Birincil Destek: 100.000$\n- İkincil Destek: 95.000$\n\n## Ethereum ve Altcoinler\n\nEthereum 3.920$ seviyesinde işlem görüyor ve DeFi sektöründeki canlanma ETH talebini artırıyor. Layer 2 çözümlerinde rekor işlem hacimleri görülüyor.\n\n### Öne Çıkan Altcoinler\n- **SOL**: +8% - Ekosistem aktivitesi artıyor\n- **AVAX**: +5% - Gaming sektörü gelişmeleri\n- **LINK**: +4% - Oracle entegrasyonları\n\n## Sonuç\n\nPiyasa genel olarak olumlu bir görünüm sergiliyor. Ancak 105.000$ direncinin aşılması kritik önem taşıyor. Yatırımcıların risk yönetimini ihmal etmemesi önerilir.",
+  "technicalIndicators": {
+    "rsi": 62.5,
+    "rsiStatus": "Nötr",
+    "macd": "Bullish Crossover",
+    "ma50": 98200,
+    "ma200": 85500
+  },
+  "priceTargets": {
+    "shortTerm": 110000,
+    "midTerm": 125000,
+    "support": 100000
+  },
+  "keyPoints": [
+    "105.000$ seviyesi kritik direnç noktası",
+    "Hacim artışı trendin güçlü olduğunu gösteriyor",
+    "On-chain metrikler pozitif sinyal veriyor",
+    "Kurumsal yatırımcı ilgisi artıyor",
+    "ETF haberleri piyasayı destekliyor"
+  ],
+  "risks": [
+    "Kar realizasyonları gelebilir",
+    "Makro ekonomik belirsizlikler",
+    "Düzenleme haberleri volatiliteye yol açabilir",
+    "Küresel likidite koşulları"
+  ],
+  "marketStats": {
+    "totalMarketCap": "$3.8T",
+    "volume24h": "$185B",
+    "btcDominance": "54.2%",
+    "activeUsers": "520M"
+  }
+}
